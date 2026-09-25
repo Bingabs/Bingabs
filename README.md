@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anthony 👋
 
-<!--
-**Bingabs/Bingabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst focused on data cleaning, exploratory data analysis, and building intuitive dashboards that translate messy datasets into clear strategic decisions.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Languages & Querying: SQL (PostgreSQL, MySQL)
+- BI & Visualization: Power BI, Microsoft Excel (Power Query, DAX, Advanced Modeling)
+- Tools & Workflow: Git, GitHub, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 What I Do
+- ETL & Data Cleaning: Designing reliable workflows to extract, clean, validate, and model structured data.
+- Exploratory Data Analysis (EDA): Uncovering trends, anomalies, and actionable insights across complex metrics.
+- Reporting & Dashboards: Building interactive, stakeholder-ready dashboards focused on key performance indicators.
+
+---
+
+### 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/anthonyabegunde
